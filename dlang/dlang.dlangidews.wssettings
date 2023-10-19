@@ -1,0 +1,31 @@
+{
+    "startupProject": "dcode",
+    "breakpoints": [
+    ],
+    "bookmarks": [
+    ],
+    "files": [
+        {
+            "file": "/home/admin/dlang-project/guile-input/dlang/dcode/source/app.d",
+            "column": 0,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/dlang-project/guile-input/dlang/dcode/source/genious/product/dots.d",
+            "column": 0,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/dlang-project/guile-input/dlang/dcode/source/genious/product/numbers.d",
+            "column": 20,
+            "row": 14
+        }
+    ],
+    "expandedItems": [
+        "/home/admin/dlang-project/guile-input/dlang/dcode/dub.json",
+        "/home/admin/dlang-project/guile-input/dlang/dcode/source",
+        "/home/admin/dlang-project/guile-input/dlang/dcode/source/genious/product",
+        "/home/admin/dlang-project/guile-input/dlang/dcode/source/genious"
+    ],
+    "selectedWorkspaceItem": "/home/admin/dlang-project/guile-input/dlang/dcode/source/genious/product/numbers.d"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "dcode",
+    "targetName": "dcode",
+    "targetType": "executable",
+    "targetPath": "bin"
+}

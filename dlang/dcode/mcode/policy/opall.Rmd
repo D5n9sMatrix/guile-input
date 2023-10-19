@@ -1,0 +1,62 @@
+---
+title: "policy opall"
+output:
+    word_document: default
+    html_document: default
+---
+
+```{r setup, echo=FALSE}
+#!/usr/bin/r
+
+#/**************************************************************************
+# Suppose x1 is any particular solution to the system Ax = b of linear     *
+# equations. Then every solution                                           * 
+# x2 to Ax = b has the form                                                *
+# x2 = x0 + x1                                                             *  
+# for some solution x0 of the associated homogeneous system Ax = 0.        *   
+# **************************************************************************/
+
+# policy cats measure to poly
+policy <- complex(length.out = 0L, real = numeric(), imaginary = numeric(), modulus = 1, argument = 0)
+# ptrdiff_t to append p
+p1 <- append(policy, 100, after = length(p))
+# reserve p 
+r1 <- diff(p1)
+# destroy p
+d1 <- debug(sample, text = "", condition = NULL, signature = NULL)
+# split p
+se <- vector(mode = "logical", length = 0L)
+# save p
+s1 <- sample(se, size = 100, replace = FALSE, prob = NULL)
+
+
+```
+
+# My Document
+
+```{r script}
+#!/usr/bin/r
+
+#/**************************************************************************
+# Suppose x1 is any particular solution to the system Ax = b of linear     *
+# equations. Then every solution                                           * 
+# x2 to Ax = b has the form                                                *
+# x2 = x0 + x1                                                             *  
+# for some solution x0 of the associated homogeneous system Ax = 0.        *   
+# **************************************************************************/
+
+# policy cats measure to poly
+policy <- complex(length.out = 0L, real = numeric(), imaginary = numeric(), modulus = 1, argument = 0)
+# ptrdiff_t to append p
+p1 <- append(policy, 100, after = length(p))
+# reserve p 
+r1 <- diff(p1)
+# destroy p
+d1 <- debug(sample, text = "", condition = NULL, signature = NULL)
+# split p
+se <- vector(mode = "logical", length = 0L)
+# save p
+s1 <- sample(se, size = 100, replace = FALSE, prob = NULL)
+
+
+```

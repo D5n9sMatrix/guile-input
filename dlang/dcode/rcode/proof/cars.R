@@ -1,0 +1,12 @@
+#!/usr/bin/r
+
+# proof send cars
+proof <- sequence.default(g1, from = 1L, by = 1L)
+# path separator
+path1 <- strptime(proof, "%d", tz = "")
+# obj partial sort
+obj1 <- labels(proof, path1)
+# op equal obj
+ops <- Arg(proof)
+# values push order obj
+val1 <- order(ops, na.last = TRUE, decreasing = FALSE, method = c("auto", "shell", "radix"))
