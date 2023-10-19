@@ -1,0 +1,91 @@
+---
+title: "cars start"
+output:
+    word_document: default
+    html_document: default
+---
+
+```{r setup, echo=FALSE}
+
+
+#!/usr/bin/r
+
+# /*************************************************************************************
+# Linear Equations                                                                     * 
+# Theorem 2.2.2 also gives a useful way to describe the solutions to a system          * 
+# Ax = b                                                                               * 
+# of linear equations. There is a related system                                       *  
+# Ax = 0                                                                               * 
+# called the associated homogeneous system, obtained from the original system          *  
+# Ax = b by replacing all                                                              *
+# the constants by zeros. Suppose x1 is a solution to Ax = b and x0 is a               * 
+# solution to Ax = 0 (that is Ax1 = b                                                  *   
+# and Ax0 = 0). Then x1 + x0 is another solution to Ax = b. Indeed, Theorem            *   
+# 2.2.2 gives                                                                          *    
+# A(x1 + x0 ) = Ax1 + Ax0 = b + 0 = b                                                  *  
+# **************************************************************************************/
+
+line1 <- as.logical(0:100, 1000)
+# missing mer re cars invest
+run <-  par(line1, no.readonly = FALSE)
+# obj par about typeof p
+obj <- typeof(run)
+# selector value 5000 mill back value return value mer re cars
+ax <- select.list(line1, preselect = NULL, multiple = FALSE, title = NULL, graphics = getOption("menu.graphics"))
+# dialog menu graphic 
+x1 <- rev(ax)
+# complex of galileous refrence cats
+g1 <- complex(length.out = 0L, real = numeric(), imaginary = numeric(), modulus = 1, argument = 0)
+# literal elements say while speed many all inspect debuggers
+l1 <- runif(g1, min = 0, max = 1)
+# append safe resume linear of equation
+app1 <- append(l1, 100, after = length(g1))
+# destroy p
+p <- dev.set(which = dev.next())
+
+
+
+
+```
+
+# My Document
+
+```{r script}
+#!/usr/bin/r
+
+# /*************************************************************************************
+# Linear Equations                                                                     * 
+# Theorem 2.2.2 also gives a useful way to describe the solutions to a system          * 
+# Ax = b                                                                               * 
+# of linear equations. There is a related system                                       *  
+# Ax = 0                                                                               * 
+# called the associated homogeneous system, obtained from the original system          *  
+# Ax = b by replacing all                                                              *
+# the constants by zeros. Suppose x1 is a solution to Ax = b and x0 is a               * 
+# solution to Ax = 0 (that is Ax1 = b                                                  *   
+# and Ax0 = 0). Then x1 + x0 is another solution to Ax = b. Indeed, Theorem            *   
+# 2.2.2 gives                                                                          *    
+# A(x1 + x0 ) = Ax1 + Ax0 = b + 0 = b                                                  *  
+# **************************************************************************************/
+
+line1 <- as.logical(0:100, 1000)
+# missing mer re cars invest
+run <-  par(line1, no.readonly = FALSE)
+# obj par about typeof p
+obj <- typeof(run)
+# selector value 5000 mill back value return value mer re cars
+ax <- select.list(line1, preselect = NULL, multiple = FALSE, title = NULL, graphics = getOption("menu.graphics"))
+# dialog menu graphic 
+x1 <- rev(ax)
+# complex of galileous refrence cats
+g1 <- complex(length.out = 0L, real = numeric(), imaginary = numeric(), modulus = 1, argument = 0)
+# literal elements say while speed many all inspect debuggers
+l1 <- runif(g1, min = 0, max = 1)
+# append safe resume linear of equation
+app1 <- append(l1, 100, after = length(g1))
+# destroy p
+p <- dev.set(which = dev.next())
+
+
+
+```
